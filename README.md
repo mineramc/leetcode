@@ -1,17 +1,12 @@
-# Project Title
+# Leetcode Practice Problems and Solutions
 
-Leetcode Practice Problems and Solutions
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
+This is a library of all LeetCode problems that I have completed so far and the solutions to each problem.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Most files within this 
 
 ### Installing
 
